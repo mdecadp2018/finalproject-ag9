@@ -129,10 +129,10 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall ag9 分組網誌](https://mdecadp2018.github.io/finalproject-ag9/blog/)
 
 
 </t>
