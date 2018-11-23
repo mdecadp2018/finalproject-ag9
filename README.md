@@ -6,9 +6,3 @@
 網誌 ( blog ): https://mdecadp2018.github.io/finalproject-ag9/blog
 
 投影片: https://mdecadp2018.github.io/finalproject-ag9/reveal
-
-分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
-
-設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
-
-cpgx 網站: https://cpgx.kmol.info
