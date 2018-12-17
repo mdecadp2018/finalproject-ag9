@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1"><vh>@settings</vh>
+<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -20,7 +20,7 @@
 <v t="leo.20170908162839.1" a="E"><vh>沒有 disqus 論壇</vh>
 <v t="yen.20170108171733.2"><vh>@button local-blog</vh></v>
 </v>
-<v t="leo.20170908162904.1"><vh>有 disqus 論壇</vh>
+<v t="leo.20170908162904.1" a="E"><vh>有 disqus 論壇</vh>
 <v t="leo.20170709224430.1"><vh>@button github-blog</vh></v>
 </v>
 <v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
@@ -31,8 +31,8 @@
 <v t="leo.20170709015940.1"><vh>近端</vh></v>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
-<v t="yen.20170224232341.1"><vh>編輯 template</vh>
-<v t="leo.20180115093448.1"><vh>@path theme/attila/templates</vh>
+<v t="yen.20170224232341.1" a="E"><vh>編輯 template</vh>
+<v t="leo.20180115093448.1" a="E"><vh>@path theme/attila/templates</vh>
 <v t="leo.20180715212936.1"><vh>@edit article.html</vh></v>
 <v t="leo.20180115093536.1"><vh>@edit base.html</vh></v>
 <v t="leo.20180115093657.1"><vh>@edit search.html</vh></v>
@@ -44,16 +44,16 @@
 </v>
 <v t="leo.20180115142025.1"><vh>保留之前舊的設定檔案</vh></v>
 </v>
-<v t="yen.20170224232341.2"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
+<v t="yen.20170224232341.2" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170224232341.3"><vh>@edit base.html</vh></v>
 </v>
-<v t="leo.20170710015301.1"><vh>@path theme/pelican-bootstrap3/templates</vh>
+<v t="leo.20170710015301.1" a="E"><vh>@path theme/pelican-bootstrap3/templates</vh>
 <v t="leo.20170710015311.1"><vh>@edit search.html</vh></v>
 <v t="leo.20170710095845.1"><vh>@edit base.html</vh></v>
 <v t="leo.20170710101854.1"><vh>@edit article.html</vh></v>
 </v>
 </v>
-<v t="leo.20170710015511.1"><vh>編輯 plugin</vh>
+<v t="leo.20170710015511.1" a="E"><vh>編輯 plugin</vh>
 <v t="leo.20170710015523.1" a="E"><vh>@path plugin</vh>
 <v t="leo.20170710015523.2" a="E"><vh>@path tipue_search</vh>
 <v t="leo.20170710015523.3"><vh>@edit tipue_search.py</vh></v>
@@ -68,13 +68,16 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
-<v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
-<v t="leo.20181217184838.1"><vh>@edit 20181116.md</vh></v>
-<v t="leo.20181217185723.1"><vh>@edit 20181123.md</vh></v>
-<v t="leo.20181217185725.1"><vh>@edit 20181130.md</vh></v>
-<v t="leo.20181217185729.1"><vh>@edit 20180718.md</vh></v>
-<v t="leo.20181217185733.1"><vh>@edit 20180718.md</vh></v>
+<v t="leo.20181103094200.1" a="E"><vh>2018 Fall CP 課程</vh>
+<v t="leo.20181103094200.2"><vh>@edit 20180718.md</vh></v>
+<v t="leo.20181103111454.1"><vh>@edit 20180914.md</vh></v>
+<v t="leo.20181103100345.2"><vh>@edit 20180921.md</vh></v>
+<v t="leo.20181103100344.2"><vh>@edit 20180928.md</vh></v>
+<v t="leo.20181103100336.2"><vh>@edit 20181005.md</vh></v>
+<v t="leo.20181103100255.2"><vh>@edit 20181012.md</vh></v>
+<v t="leo.20181021000359.1"><vh>@edit 20181019.md</vh></v>
+<v t="leo.20181103100439.2"><vh>@edit 20181026.md</vh></v>
+<v t="leo.20181103100433.2"><vh>@edit 20181102.md</vh></v>
 </v>
 </v>
 </v>
@@ -107,7 +110,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
-<t tx="leo.20180423103639.1"></t>
+<t tx="leo.20181103094200.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
