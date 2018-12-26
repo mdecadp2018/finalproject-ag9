@@ -17,9 +17,7 @@
 
 
 &lt;h2&gt;每週上課進度&lt;/h2&gt;
-&lt;p&gt;1.Experenice-53-W15內容維護更新&lt;/p&gt;
-&lt;p&gt;2.解決blog格式問題&lt;/p&gt;
-&lt;p&gt;3.維護W09-W12 Blog內容維護與更新&lt;/p&gt;
+&lt;p&gt;1.解決blog格式問題&lt;/p&gt;
 &lt;h2&gt;專題每週進度&lt;/h2&gt;
 &lt;p&gt;1.W14 Blog毀損事件：組員在建立新的部落格分頁時格式新增錯誤，導致網頁404問題。
 在更改pelican內容後解決此次404問題。&lt;/p&gt;
