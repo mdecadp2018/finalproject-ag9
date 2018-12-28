@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/finalproject-ag9/blog/</id><updated>2018-12-21T11:00:00+08:00</updated><entry><title>Week15</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w15.html" rel="alternate"></link><published>2018-12-21T11:00:00+08:00</published><updated>2018-12-21T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-21:/finalproject-ag9/blog/2018-Final-Project-Blog-w15.html</id><summary type="html">&lt;p&gt;Week15.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week15.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/finalproject-ag9/blog/</id><updated>2018-12-28T11:00:00+08:00</updated><entry><title>Week16</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w16.html" rel="alternate"></link><published>2018-12-28T11:00:00+08:00</published><updated>2018-12-28T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-28:/finalproject-ag9/blog/2018-Final-Project-Blog-w16.html</id><summary type="html">&lt;p&gt;Week15&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Week15&lt;/p&gt;
+
+
+&lt;h2&gt;每週上課進度&lt;/h2&gt;
+&lt;p&gt;1.本週進行blog維護更新時，因為格式錯誤而造成blog顯示404畫面，經詢問班上較熟習操作的同學後發現問題出在"Slug:2018-Final-Project-Blog"每週都不能相同，經更改後也順利的救回blog，相當感謝同學的幫忙。&lt;/p&gt;
+&lt;p&gt;2.經由此得知格式的重要性，只要稍稍步驟錯誤就會發生問題，影響了整個blog。&lt;/p&gt;
+&lt;h2&gt;專題每週進度&lt;/h2&gt;
+&lt;p&gt;1.1.W14 Blog毀損事件：組員在建立新的部落格分頁時格式新增錯誤，導致網頁404問題。
+在更改pelican內容後解決此次404問題。&lt;/p&gt;
+&lt;p&gt;2.V-Rep程式處理。&lt;/p&gt;
+&lt;p&gt;3.討論各分組進度內容。&lt;/p&gt;
+&lt;p&gt;4.把手及龍頭摺疊總成外觀修正。&lt;/p&gt;
+&lt;p&gt;5.零件組立。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week15</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w15.html" rel="alternate"></link><published>2018-12-21T11:00:00+08:00</published><updated>2018-12-21T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-21:/finalproject-ag9/blog/2018-Final-Project-Blog-w15.html</id><summary type="html">&lt;p&gt;Week15&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Week15&lt;/p&gt;
 
 
 &lt;h2&gt;每週上課進度&lt;/h2&gt;
@@ -13,18 +26,6 @@
 &lt;p&gt;3.討論各分組進度內容。&lt;/p&gt;
 &lt;p&gt;4.把手及龍頭摺疊總成外觀修正。&lt;/p&gt;
 &lt;p&gt;5.零件組立。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week14</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w14.html" rel="alternate"></link><published>2018-12-14T11:00:00+08:00</published><updated>2018-12-14T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-14:/finalproject-ag9/blog/2018-Final-Project-Blog-w14.html</id><summary type="html">&lt;p&gt;Week14.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week14.&lt;/p&gt;
-
-
-&lt;h2&gt;每週上課進度&lt;/h2&gt;
-&lt;p&gt;1.利用V-rep觀察六軸機械手臂移動方向&lt;/p&gt;
-&lt;p&gt;2.詳讀文章內容，並將不會的單字記錄在筆記本。&lt;/p&gt;
-&lt;h2&gt;專題每週進度&lt;/h2&gt;
-&lt;p&gt;連結至MDE，開啟"2018 Fall 期末專案示範網站"後點選&lt;/p&gt;
-&lt;p&gt;課程專題&amp;gt;電腦輔助設計議題&lt;/p&gt;
-&lt;p&gt;後利用"六軸機械手臂"為例題來使用V-rep和Onshape來驗證inverse kinematics.pdf &lt;/p&gt;
-&lt;p&gt;參考連結:&lt;/p&gt;
-&lt;p&gt;http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week14</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w14.html" rel="alternate"></link><published>2018-12-14T11:00:00+08:00</published><updated>2018-12-14T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-14:/finalproject-ag9/blog/2018-Final-Project-Blog-w14.html</id><summary type="html">&lt;p&gt;Week14.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Week14.&lt;/p&gt;
 
 
