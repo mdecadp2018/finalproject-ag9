@@ -39,7 +39,7 @@
 <div class="slides">
 <section data-markdown>
     <script type="text/template">
-## 2018Fall 分組網際簡報
+## 2018Fall ag9分組網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -47,8 +47,9 @@
 Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 </small>
 
-[2018 Fall ag9 分組網誌](https://mdecadp2018.github.io/finalproject-ag9/blog/)
+[ag9分組網站](https://mdecadp2018.github.io/finalproject-ag9/content/index.html)
 
+[ag9分組網誌(Blog)](https://mdecadp2018.github.io/finalproject-ag9/blog/)
 
     </script>
 </section>
@@ -79,9 +80,10 @@ Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 
 1/18 Scale folding bike 摺疊自行車模型設計製作。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mNPXl2QQNCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 分組專題人員: 六人
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mNPXl2QQNCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </script>
 </section>
 
@@ -91,31 +93,43 @@ Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+## 組員介紹
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
+Leader：
+* [40623155](https://github.com/mdecadp2018/site-40623155) 陳 霖 (Mid-term Self-assessment：70)
+
+Member：
+* [40423111](https://github.com/mdecadp2018/site-40423111) 吳承翰 (Mid-term Self-assessment：70)
+* [40623142](https://github.com/mdecadp2018/site-40623142) 郭益綸 (Mid-term Self-assessment：65)
+* [40623153](https://github.com/mdecadp2018/site-40623153) 廖祥佑 (Mid-term Self-assessment：70)
+* [40623156](https://github.com/mdecadp2018/site-40623156) 林聖翰 (Mid-term Self-assessment：70)
+* [40623157](https://github.com/mdecadp2018/site-40623157) 李昀霖 (Mid-term Self-assessment：70)
+    </script>
+</section>
+
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 零件介紹
+
+```
+◎零件清單
+1.把手
+2.前叉座
+3.摺疊座頭
+4.上折彎桿
+5.下折彎桿
+6.座管
+7.後車架
+8.輪胎 x2
+9.快拆組
+10.
 ```
     </script>
 </section>
@@ -125,13 +139,112 @@ make.start()
 						
 <section data-markdown>
     <script type="text/template">
-## 使用 iframe 導入影片
+<!-- 請注意, @others 不可以內縮 -->
+## 把手
 
-### 導入影片 template
+<img src ="./../images/把手.png"  width="350" height="250
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></img>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mNPXl2QQNCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
     </script>
 </section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 前叉座
+
+<img src ="./../images/上搖臂.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></img>
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 折疊座頭
+
+<img src ="./../images/摺疊座頭總成.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></img>
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 上折彎桿
+
+<img src ="./../images/上搖臂.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></img>
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 下折彎桿
+
+<img src ="./../images/上搖臂.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></img>
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 座管
+
+<img src ="./../images/上搖臂.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></img>
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 後車架
+
+<img src ="./../images/後車架.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></img>
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 輪胎
+
+<img src ="./../images/輪胎.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></img>
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 快拆組
+
+<img src ="./../images/上搖臂.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></img>
+    </script>
+</section>
+
 
 
 						
