@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-12-28T11:00:00+08:00</updated><entry><title>Week16</title><link href="./2018-Final-Project-Blog-w16.html" rel="alternate"></link><published>2018-12-28T11:00:00+08:00</published><updated>2018-12-28T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-28:./2018-Final-Project-Blog-w16.html</id><summary type="html">&lt;p&gt;Week15&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Week15&lt;/p&gt;
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/finalproject-ag9/blog/</id><updated>2019-01-04T11:00:00+08:00</updated><entry><title>Week17</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w17.html" rel="alternate"></link><published>2019-01-04T11:00:00+08:00</published><updated>2019-01-04T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2019-01-04:/finalproject-ag9/blog/2018-Final-Project-Blog-w17.html</id><summary type="html">&lt;p&gt;Week17&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Week17&lt;/p&gt;
+>>>>>>> 2a1315c5420f7865f1a1a67eaf56bcb46b9080a5
 
 
 &lt;h2&gt;每週上課進度&lt;/h2&gt;
-&lt;p&gt;1.本週進行blog維護更新時，因為格式錯誤而造成blog顯示404畫面，經詢問班上較熟習操作的同學後發現問題出在"Slug:2018-Final-Project-Blog"每週都不能相同，經更改後也順利的救回blog，相當感謝同學的幫忙。&lt;/p&gt;
-&lt;p&gt;2.經由此得知格式的重要性，只要稍稍步驟錯誤就會發生問題，影響了整個blog。&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
 &lt;h2&gt;專題每週進度&lt;/h2&gt;
+<<<<<<< HEAD
 &lt;p&gt;1.1.W14 Blog毀損事件：組員在建立新的部落格分頁時格式新增錯誤，導致網頁404問題。
 在更改pelican內容後解決此次404問題。&lt;/p&gt;
 &lt;p&gt;2.V-Rep程式處理。&lt;/p&gt;
 &lt;p&gt;3.討論各分組進度內容。&lt;/p&gt;
 &lt;p&gt;4.把手及龍頭摺疊總成外觀修正。&lt;/p&gt;
 &lt;p&gt;5.零件組立。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week15</title><link href="./2018-Final-Project-Blog-w15.html" rel="alternate"></link><published>2018-12-21T11:00:00+08:00</published><updated>2018-12-21T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-21:./2018-Final-Project-Blog-w15.html</id><summary type="html">&lt;p&gt;Week15&lt;/p&gt;
+=======
+&lt;p&gt;1.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week16</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w16.html" rel="alternate"></link><published>2018-12-28T11:00:00+08:00</published><updated>2018-12-28T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-28:/finalproject-ag9/blog/2018-Final-Project-Blog-w16.html</id><summary type="html">&lt;p&gt;Week16&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Week16&lt;/p&gt;
+
+
+&lt;h2&gt;每週上課進度&lt;/h2&gt;
+&lt;p&gt;1.本週進行blog維護更新時，因為格式錯誤而造成blog顯示404畫面，後來開啟資料夾直接將Markdown內有問題的部分直接刪除即可。&lt;/p&gt;
+&lt;p&gt;2.各組員持續依照組長分配工作進行各部分的維護及專題繪圖組裝。&lt;/p&gt;
+&lt;h2&gt;專題每週進度&lt;/h2&gt;
+&lt;p&gt;1.於本週將我們的折疊腳踏車組裝完成，雖然花了很久的時間才完成構圖、零件繪製、組裝配合、檢查干涉。&lt;/p&gt;
+&lt;p&gt;2.新增座墊、齒盤、腳踏板&lt;/p&gt;
+&lt;p&gt;3.組立完成&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week15</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w15.html" rel="alternate"></link><published>2018-12-21T11:00:00+08:00</published><updated>2018-12-21T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-21:/finalproject-ag9/blog/2018-Final-Project-Blog-w15.html</id><summary type="html">&lt;p&gt;Week15&lt;/p&gt;
+>>>>>>> 2a1315c5420f7865f1a1a67eaf56bcb46b9080a5
 </summary><content type="html">&lt;p&gt;Week15&lt;/p&gt;
 
 
