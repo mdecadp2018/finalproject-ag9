@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-12-28T11:00:00+08:00</updated><entry><title>Week16</title><link href="./2018-Final-Project-Blog-w16.html" rel="alternate"></link><published>2018-12-28T11:00:00+08:00</published><updated>2018-12-28T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-28:./2018-Final-Project-Blog-w16.html</id><summary type="html">&lt;p&gt;Week15&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week15&lt;/p&gt;
-=======
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/finalproject-ag9/blog/</id><updated>2019-01-04T11:00:00+08:00</updated><entry><title>Week17</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w17.html" rel="alternate"></link><published>2019-01-04T11:00:00+08:00</published><updated>2019-01-04T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2019-01-04:/finalproject-ag9/blog/2018-Final-Project-Blog-w17.html</id><summary type="html">&lt;p&gt;Week17&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week17&lt;/p&gt;
->>>>>>> 2a1315c5420f7865f1a1a67eaf56bcb46b9080a5
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/finalproject-ag9/blog/</id><updated>2019-01-04T11:00:00+08:00</updated><entry><title>Week17</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w17.html" rel="alternate"></link><published>2019-01-04T11:00:00+08:00</published><updated>2019-01-04T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2019-01-04:/finalproject-ag9/blog/2018-Final-Project-Blog-w17.html</id><summary type="html">&lt;p&gt;Week17.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Week17.&lt;/p&gt;
 
 
 &lt;h2&gt;每週上課進度&lt;/h2&gt;
 &lt;p&gt;1.&lt;/p&gt;
 &lt;h2&gt;專題每週進度&lt;/h2&gt;
-<<<<<<< HEAD
-&lt;p&gt;1.1.W14 Blog毀損事件：組員在建立新的部落格分頁時格式新增錯誤，導致網頁404問題。
-在更改pelican內容後解決此次404問題。&lt;/p&gt;
-&lt;p&gt;2.V-Rep程式處理。&lt;/p&gt;
-&lt;p&gt;3.討論各分組進度內容。&lt;/p&gt;
-&lt;p&gt;4.把手及龍頭摺疊總成外觀修正。&lt;/p&gt;
-&lt;p&gt;5.零件組立。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week15</title><link href="./2018-Final-Project-Blog-w15.html" rel="alternate"></link><published>2018-12-21T11:00:00+08:00</published><updated>2018-12-21T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-21:./2018-Final-Project-Blog-w15.html</id><summary type="html">&lt;p&gt;Week15&lt;/p&gt;
-=======
-&lt;p&gt;1.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week16</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w16.html" rel="alternate"></link><published>2018-12-28T11:00:00+08:00</published><updated>2018-12-28T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-28:/finalproject-ag9/blog/2018-Final-Project-Blog-w16.html</id><summary type="html">&lt;p&gt;Week16&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Week16&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week16</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w16.html" rel="alternate"></link><published>2018-12-28T11:00:00+08:00</published><updated>2018-12-28T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-28:/finalproject-ag9/blog/2018-Final-Project-Blog-w16.html</id><summary type="html">&lt;p&gt;Week16.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Week16.&lt;/p&gt;
 
 
 &lt;h2&gt;每週上課進度&lt;/h2&gt;
@@ -29,9 +16,8 @@
 &lt;h2&gt;專題每週進度&lt;/h2&gt;
 &lt;p&gt;1.於本週將我們的折疊腳踏車組裝完成，雖然花了很久的時間才完成構圖、零件繪製、組裝配合、檢查干涉。&lt;/p&gt;
 &lt;p&gt;2.新增座墊、齒盤、腳踏板&lt;/p&gt;
-&lt;p&gt;3.組立完成&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week15</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w15.html" rel="alternate"></link><published>2018-12-21T11:00:00+08:00</published><updated>2018-12-21T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-21:/finalproject-ag9/blog/2018-Final-Project-Blog-w15.html</id><summary type="html">&lt;p&gt;Week15&lt;/p&gt;
->>>>>>> 2a1315c5420f7865f1a1a67eaf56bcb46b9080a5
-</summary><content type="html">&lt;p&gt;Week15&lt;/p&gt;
+&lt;p&gt;3.組立完成&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week15</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w15.html" rel="alternate"></link><published>2018-12-21T11:00:00+08:00</published><updated>2018-12-21T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-21:/finalproject-ag9/blog/2018-Final-Project-Blog-w15.html</id><summary type="html">&lt;p&gt;Week15.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Week15.&lt;/p&gt;
 
 
 &lt;h2&gt;每週上課進度&lt;/h2&gt;
@@ -43,7 +29,7 @@
 &lt;p&gt;2.V-Rep程式處理。&lt;/p&gt;
 &lt;p&gt;3.討論各分組進度內容。&lt;/p&gt;
 &lt;p&gt;4.把手及龍頭摺疊總成外觀修正。&lt;/p&gt;
-&lt;p&gt;5.零件組立。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week14</title><link href="./2018-Final-Project-Blog-w14.html" rel="alternate"></link><published>2018-12-14T11:00:00+08:00</published><updated>2018-12-14T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-14:./2018-Final-Project-Blog-w14.html</id><summary type="html">&lt;p&gt;Week14.&lt;/p&gt;
+&lt;p&gt;5.零件組立。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week14</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w14.html" rel="alternate"></link><published>2018-12-14T11:00:00+08:00</published><updated>2018-12-14T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-14:/finalproject-ag9/blog/2018-Final-Project-Blog-w14.html</id><summary type="html">&lt;p&gt;Week14.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Week14.&lt;/p&gt;
 
 
@@ -54,7 +40,7 @@
 &lt;p&gt;連結至MDE，開啟"2018 Fall 期末專案示範網站"後點選&lt;/p&gt;
 &lt;p&gt;課程專題&amp;gt;電腦輔助設計議題&lt;/p&gt;
 &lt;p&gt;後利用"六軸機械手臂"為例題來使用V-rep和Onshape來驗證inverse kinematics.pdf
-。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week13</title><link href="./2018-Final-Project-Blog-w13.html" rel="alternate"></link><published>2018-12-07T11:00:00+08:00</published><updated>2018-12-07T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-07:./2018-Final-Project-Blog-w13.html</id><summary type="html">&lt;p&gt;Week13.&lt;/p&gt;
+。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week13</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w13.html" rel="alternate"></link><published>2018-12-07T11:00:00+08:00</published><updated>2018-12-07T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-12-07:/finalproject-ag9/blog/2018-Final-Project-Blog-w13.html</id><summary type="html">&lt;p&gt;Week13.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Week13.&lt;/p&gt;
 
 
@@ -68,7 +54,7 @@
 &lt;p&gt;3.組員共同討論專題方向、內容。&lt;/p&gt;
 &lt;p&gt;4.依照各自專長分配專題工作。&lt;/p&gt;
 &lt;p&gt;5.集合各組員所蒐集內容。&lt;/p&gt;
-&lt;p&gt;6.遇見問題時需新增Q&amp;amp;A。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week12</title><link href="./2018-Final-Project-Blog-w12.html" rel="alternate"></link><published>2018-11-30T11:00:00+08:00</published><updated>2018-11-30T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-11-30:./2018-Final-Project-Blog-w12.html</id><summary type="html">&lt;p&gt;Week12.&lt;/p&gt;
+&lt;p&gt;6.遇見問題時需新增Q&amp;amp;A。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week12</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w12.html" rel="alternate"></link><published>2018-11-30T11:00:00+08:00</published><updated>2018-11-30T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-11-30:/finalproject-ag9/blog/2018-Final-Project-Blog-w12.html</id><summary type="html">&lt;p&gt;Week12.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Week12.&lt;/p&gt;
 
 
@@ -79,7 +65,7 @@
 &lt;p&gt;1.選定專題題目:摺疊自行車。&lt;/p&gt;
 &lt;p&gt;2.上網搜尋自行車各部位零組件。&lt;/p&gt;
 &lt;p&gt;3.使用Onshape繪圖與組立各個機件。&lt;/p&gt;
-&lt;p&gt;4.確定主題後開始注意目前市面上所販售的折疊單車，仔細找出它們的缺點，像是折疊後還是很佔空間，或是折疊後單車無法隨時帶著走，決定由車架的改變開始下手。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week11</title><link href="./2018-Final-Project-Blog-w11.html" rel="alternate"></link><published>2018-11-23T11:00:00+08:00</published><updated>2018-11-23T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-11-23:./2018-Final-Project-Blog-w11.html</id><summary type="html">&lt;p&gt;Week11.&lt;/p&gt;
+&lt;p&gt;4.確定主題後開始注意目前市面上所販售的折疊單車，仔細找出它們的缺點，像是折疊後還是很佔空間，或是折疊後單車無法隨時帶著走，決定由車架的改變開始下手。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week11</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w11.html" rel="alternate"></link><published>2018-11-23T11:00:00+08:00</published><updated>2018-11-23T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-11-23:/finalproject-ag9/blog/2018-Final-Project-Blog-w11.html</id><summary type="html">&lt;p&gt;Week11.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Week11.&lt;/p&gt;
 
 
@@ -90,14 +76,14 @@
 &lt;h2&gt;專題每週進度&lt;/h2&gt;
 &lt;p&gt;1.開始選擇專題題目&lt;/p&gt;
 &lt;p&gt;2.我們經過多方意見討論出了設計的主題，並且依照每一位組員的專長下去分配工作。&lt;/p&gt;
-&lt;p&gt;3.觀看V-rep內專題範例之機構運作方式。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week10</title><link href="./2018-Final-Project-Blog-w10.html" rel="alternate"></link><published>2018-11-16T11:00:00+08:00</published><updated>2018-11-16T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-11-16:./2018-Final-Project-Blog-w10.html</id><summary type="html">&lt;p&gt;Week10.&lt;/p&gt;
+&lt;p&gt;3.觀看V-rep內專題範例之機構運作方式。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week10</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w10.html" rel="alternate"></link><published>2018-11-16T11:00:00+08:00</published><updated>2018-11-16T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-11-16:/finalproject-ag9/blog/2018-Final-Project-Blog-w10.html</id><summary type="html">&lt;p&gt;Week10.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Week10.&lt;/p&gt;
 
 
 &lt;h2&gt;每週上課進度&lt;/h2&gt;
 &lt;p&gt;35th校慶放假&lt;/p&gt;
 &lt;h2&gt;專題每週進度&lt;/h2&gt;
-&lt;p&gt;35th校慶放假&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week9</title><link href="./2018-Final-Project-Blog-w9.html" rel="alternate"></link><published>2018-11-09T11:00:00+08:00</published><updated>2018-11-09T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-11-09:./2018-Final-Project-Blog-w9.html</id><summary type="html">&lt;p&gt;Week9.&lt;/p&gt;
+&lt;p&gt;35th校慶放假&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week9</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Final-Project-Blog-w9.html" rel="alternate"></link><published>2018-11-09T11:00:00+08:00</published><updated>2018-11-09T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-11-09:/finalproject-ag9/blog/2018-Final-Project-Blog-w9.html</id><summary type="html">&lt;p&gt;Week9.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Week9.&lt;/p&gt;
 
 
@@ -109,7 +95,7 @@
 &lt;p&gt;5.開始維護近端&lt;/p&gt;
 &lt;h2&gt;專題每週進度&lt;/h2&gt;
 &lt;p&gt;本週進行分組以及自評分數&lt;/p&gt;
-&lt;p&gt;分組&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;分組&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/finalproject-ag9/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/finalproject-ag9/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
