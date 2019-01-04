@@ -21,16 +21,11 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<<<<<<< HEAD
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-=======
 <v t="leo.20190103223156.1"><vh>組員工作</vh>
 <v t="leo.20190103223156.2"><vh>組員工作</vh></v>
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>Week9</vh>
 <v t="leo.20180827201621.14" a="E"><vh>Week9</vh>
@@ -40,11 +35,6 @@
 <v t="leo.20190103232316.2"><vh>內文</vh></v>
 </v>
 </v>
-<<<<<<< HEAD
-<v t="leo.20181221120502.1" a="E"><vh>零件解說</vh>
-<v t="leo.20181221120502.4" a="E"><vh>零件介紹</vh>
-<v t="leo.20181221120502.5"><vh>零件清單</vh></v>
-=======
 <v t="leo.20190103231149.1"><vh>Week10</vh>
 <v t="leo.20190103231149.4"><vh>Week10</vh>
 <v t="leo.20190103231149.5"><vh>內文</vh></v>
@@ -88,45 +78,16 @@
 </v>
 <v t="leo.20190103223355.1"><vh>快捷鍵</vh>
 <v t="leo.20190103223355.2"><vh>投影片快捷鍵</vh></v>
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 </v>
-<v t="leo.20181221120502.2" a="E"><vh>把手</vh>
-<v t="leo.20181221120502.3"><vh>圖文</vh></v>
+<v t="leo.20181221120502.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181221120502.2" a="E"><vh>行走自行車</vh>
+<v t="leo.20181221120502.3"><vh>開頭</vh></v>
 </v>
-<v t="leo.20190104010833.1" a="E"><vh>前叉座</vh>
-<v t="leo.20190104010833.2"><vh>圖文</vh></v>
+<v t="leo.20181221120502.4" a="E"><vh>列表範例</vh>
+<v t="leo.20181221120502.5"><vh>組員介紹</vh></v>
 </v>
-<v t="leo.20190104010835.1" a="E"><vh>折疊座頭</vh>
-<v t="leo.20190104010835.2"><vh>圖文</vh></v>
-</v>
-<v t="leo.20190104010837.1" a="E"><vh>上折彎桿</vh>
-<v t="leo.20190104010837.2"><vh>圖文</vh></v>
-</v>
-<v t="leo.20190104010951.1" a="E"><vh>下折彎桿</vh>
-<v t="leo.20190104010951.2"><vh>圖文</vh></v>
-</v>
-<v t="leo.20190104010954.1" a="E"><vh>座管</vh>
-<v t="leo.20190104010954.2"><vh>圖文</vh></v>
-</v>
-<v t="leo.20190104010958.1" a="E"><vh>後車架</vh>
-<v t="leo.20190104010958.2"><vh>圖文</vh></v>
-</v>
-<v t="leo.20190104011031.1" a="E"><vh>輪胎</vh>
-<v t="leo.20190104011031.2"><vh>圖文</vh></v>
-</v>
-<v t="leo.20190104011037.1" a="E"><vh>快拆組</vh>
-<v t="leo.20190104011037.2"><vh>圖文</vh></v>
-</v>
-</v>
-<v t="leo.20190104003013.1"><vh>各式內容引用範例</vh>
-<v t="leo.20190104003013.2" a="E"><vh>行走自行車</vh>
-<v t="leo.20190104003013.3"><vh>開頭</vh></v>
-</v>
-<v t="leo.20190104003013.4" a="E"><vh>列表範例</vh>
-<v t="leo.20190104003013.5"><vh>組員介紹</vh></v>
-</v>
-<v t="leo.20190104003013.6" a="E"><vh>導入影片</vh>
-<v t="leo.20190104003013.7"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181221120502.6" a="E"><vh>導入影片</vh>
+<v t="leo.20181221120502.7"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -215,11 +176,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<<<<<<< HEAD
-<t tx="leo.20180827201621.10">## 2018Fall ag9分組網際簡報
-=======
 <t tx="leo.20180827201621.10">## 2018Fall 期末分組 第九組
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 
 ### 虎科大機械設計工程系
 
@@ -227,34 +184,10 @@ vertical: body pane on the botton</t>
 Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 &lt;/small&gt;
 
-<<<<<<< HEAD
-[ag9分組網站](https://mdecadp2018.github.io/finalproject-ag9/content/index.html)
-
-[ag9分組網誌(Blog)](https://mdecadp2018.github.io/finalproject-ag9/blog/)</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-=======
 [2018 Fall ag9 分組網誌](https://mdecadp2018.github.io/finalproject-ag9/blog/)
 
 &lt;/small&gt;
 專題題目：摺疊自行車
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -271,37 +204,6 @@ Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 
 						
 </t>
-<<<<<<< HEAD
-<t tx="leo.20180827201621.15">## 行走自行車
-
-1/18 Scale folding bike 摺疊自行車模型設計製作。
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mNPXl2QQNCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-分組專題人員: 六人</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 組員介紹
-
-Leader：
-* [40623155](https://github.com/mdecadp2018/site-40623155) 陳 霖 (Mid-term Self-assessment：70)
-
-Member：
-* [40423111](https://github.com/mdecadp2018/site-40423111) 吳承翰 (Mid-term Self-assessment：70)
-* [40623142](https://github.com/mdecadp2018/site-40623142) 郭益綸 (Mid-term Self-assessment：65)
-* [40623153](https://github.com/mdecadp2018/site-40623153) 廖祥佑 (Mid-term Self-assessment：70)
-* [40623156](https://github.com/mdecadp2018/site-40623156) 林聖翰 (Mid-term Self-assessment：70)
-* [40623157](https://github.com/mdecadp2018/site-40623157) 李昀霖 (Mid-term Self-assessment：70)
-=======
 <t tx="leo.20180827201621.15">## Week9 專題進度
 
 1. 分組
@@ -310,7 +212,6 @@ Member：
 4. git clone:
 https://github.com/mdecadp2018/finalproject-ag9
 5. 開始維護近端
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -422,12 +323,13 @@ https://github.com/mdecadp2018/finalproject-ag9
 
 						
 </t>
-<t tx="leo.20181221120502.3">## 把手
+<t tx="leo.20181221120502.3">## 行走自行車
 
-&lt;img src ="./../images/把手.png"  width="350" height="250
-" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+1/18 Scale folding bike 摺疊自行車模型設計製作。
 
-```
+分組專題人員: 六人
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mNPXl2QQNCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181221120502.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -440,58 +342,7 @@ https://github.com/mdecadp2018/finalproject-ag9
 
 						
 </t>
-<t tx="leo.20181221120502.5">## 零件介紹
-
-```
-◎零件清單
-1.把手
-2.前叉座
-3.摺疊座頭
-4.上折彎桿
-5.下折彎桿
-6.座管
-7.後車架
-8.輪胎 x2
-9.快拆組
-10.
-```
-</t>
-<t tx="leo.20190104003013.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190104003013.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190104003013.3">## 行走自行車
-
-1/18 Scale folding bike 摺疊自行車模型設計製作。
-
-分組專題人員: 六人
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mNPXl2QQNCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="leo.20190104003013.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190104003013.5">## 利用 Markdown 寫投影片
+<t tx="leo.20181221120502.5">## 利用 Markdown 寫投影片
 以下利用 Markdown 格式展示 Python 程式碼:
 ```
 @language python
@@ -519,7 +370,7 @@ make = threading.Thread(target=domake)
 make.start()
 ```
 </t>
-<t tx="leo.20190104003013.6">&lt;section data-markdown&gt;
+<t tx="leo.20181221120502.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -528,37 +379,19 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190104003013.7">## 使用 iframe 導入影片
+<t tx="leo.20181221120502.7">## 使用 iframe 導入影片
 
 ### 導入影片 template
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mNPXl2QQNCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<<<<<<< HEAD
-<t tx="leo.20190104010833.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-=======
 <t tx="leo.20190103223156.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-<<<<<<< HEAD
-
-						
-</t>
-<t tx="leo.20190104010833.2">## 前叉座
-
-&lt;img src ="./../images/上搖臂.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-</t>
-<t tx="leo.20190104010835.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-=======
 						
 </t>
 <t tx="leo.20190103223156.2"># 組員工作
@@ -574,22 +407,11 @@ make.start()
 </t>
 <t tx="leo.20190103223355.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-<<<<<<< HEAD
-
-						
-</t>
-<t tx="leo.20190104010835.2">## 折疊座頭
-
-&lt;img src ="./../images/摺疊座頭總成.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-</t>
-<t tx="leo.20190104010837.1">&lt;section data-markdown&gt;
-=======
 						
 </t>
 <t tx="leo.20190103223355.2"># 投影片快捷鍵
@@ -608,7 +430,6 @@ make.start()
 
 </t>
 <t tx="leo.20190103231149.4">&lt;section data-markdown&gt;
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -619,15 +440,6 @@ make.start()
 
 						
 </t>
-<<<<<<< HEAD
-<t tx="leo.20190104010837.2">## 上折彎桿
-
-&lt;img src ="./../images/上搖臂.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-</t>
-<t tx="leo.20190104010951.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-=======
 <t tx="leo.20190103231149.5">## Week10 專題進度
 
 校慶放假</t>
@@ -638,24 +450,11 @@ make.start()
 </t>
 <t tx="leo.20190103231151.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-<<<<<<< HEAD
-
-						
-</t>
-<t tx="leo.20190104010951.2">## 下折彎桿
-
-&lt;img src ="./../images/上搖臂.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-</t>
-<t tx="leo.20190104010954.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-=======
 						
 </t>
 <t tx="leo.20190103231151.7">## Week11 專題進度
@@ -672,24 +471,11 @@ make.start()
 </t>
 <t tx="leo.20190103231154.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-<<<<<<< HEAD
-
-						
-</t>
-<t tx="leo.20190104010954.2">## 座管
-
-&lt;img src ="./../images/上搖臂.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-</t>
-<t tx="leo.20190104010958.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-=======
 						
 </t>
 <t tx="leo.20190103231154.9">## Week12 專題進度
@@ -705,24 +491,11 @@ make.start()
 </t>
 <t tx="leo.20190103231159.10">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-<<<<<<< HEAD
-
-						
-</t>
-<t tx="leo.20190104010958.2">## 後車架
-
-&lt;img src ="./../images/後車架.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-</t>
-<t tx="leo.20190104011031.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-=======
 						
 </t>
 <t tx="leo.20190103231159.11">## Week13 專題進度
@@ -740,22 +513,11 @@ make.start()
 </t>
 <t tx="leo.20190103231203.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-<<<<<<< HEAD
-
-						
-</t>
-<t tx="leo.20190104011031.2">## 輪胎
-
-&lt;img src ="./../images/輪胎.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-</t>
-<t tx="leo.20190104011037.1">&lt;section data-markdown&gt;
-=======
 						
 </t>
 <t tx="leo.20190103231203.13">## Week14 專題進度
@@ -807,7 +569,6 @@ make.start()
 1. 新增座墊、齒盤、腳踏板
 2. 組立完成</t>
 <t tx="leo.20190103232316.1">&lt;section data-markdown&gt;
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -818,12 +579,6 @@ make.start()
 
 						
 </t>
-<<<<<<< HEAD
-<t tx="leo.20190104011037.2">## 快拆組
-
-&lt;img src ="./../images/上搖臂.png"  width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-</t>
-=======
 <t tx="leo.20190103232316.2">## Quesion20181207
 
  python wsgi.py ，開啟近端時無法成功完成執行
@@ -862,6 +617,5 @@ Blog故障事件：
 "Y:\tmp\ag9\config"點擊到config資料夾內，此時會發現兩個html檔。
 (content檔為目前近端網站編輯的部分，content_backup為幫我們暫存目前檔案的地方)
 在發生上述事件(head)後，刪除content檔，把content_backup檔名修改成content，(這邊意指用系統幫你存下的完好檔覆蓋、取代掉壞掉的content檔)，後重新開啟近端便救回此狀況。(前提為自己的p37版本要有更新到有儲存備份檔功能的版本才行）</t>
->>>>>>> b86f1fc37852b718326c37992c54c5998c669495
 </tnodes>
 </leo_file>
