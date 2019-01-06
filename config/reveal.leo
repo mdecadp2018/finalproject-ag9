@@ -21,11 +21,28 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190103223355.1"><vh>快捷鍵</vh>
 <v t="leo.20190103223355.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190106114454.1" a="E"><vh>專題執行規劃</vh>
+<v t="leo.20190106114454.2"><vh>標題</vh>
+<v t="leo.20190106114454.3"><vh>內文</vh></v>
+</v>
+<v t="leo.20190106114454.4" a="E"><vh>page 1</vh>
+<v t="leo.20190106114913.1"><vh>圖一</vh></v>
+</v>
+<v t="leo.20190106114454.6" a="E"><vh>page 2</vh>
+<v t="leo.20190106114454.7"><vh>圖二</vh></v>
+</v>
+<v t="leo.20190106114454.8" a="E"><vh>page 3</vh>
+<v t="leo.20190106114454.9"><vh>圖三</vh></v>
+</v>
+<v t="leo.20190106114454.10"><vh>page 4</vh>
+<v t="leo.20190106114454.11"><vh>圖四</vh></v>
+</v>
 </v>
 <v t="leo.20190103223156.1"><vh>組員工作</vh>
 <v t="leo.20190103223156.2"><vh>組員工作</vh></v>
@@ -165,11 +182,11 @@
 <v t="leo.20190104104456.5"><vh>組員介紹</vh></v>
 </v>
 </v>
-<v t="leo.20190104104530.1"><vh>零件解說</vh>
-<v t="leo.20190104104530.2"><vh>零件介紹</vh>
+<v t="leo.20190104104530.1" a="E"><vh>零件解說</vh>
+<v t="leo.20190104104530.2" a="E"><vh>零件介紹</vh>
 <v t="leo.20190104104530.3"><vh>零件清單</vh></v>
 </v>
-<v t="leo.20190104104530.4"><vh>把手</vh>
+<v t="leo.20190104104530.4" a="E"><vh>把手</vh>
 <v t="leo.20190104104530.5"><vh>圖文</vh></v>
 </v>
 <v t="leo.20190104104530.6"><vh>前叉座</vh>
@@ -564,7 +581,9 @@ make.start()
 &lt;/small&gt;
 校慶放假
 
-&lt;img src ="./../images/birth (1).jpg"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/birth (1).jpg"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190103231151.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -585,7 +604,9 @@ make.start()
 2. 完成每周進度部分
 3. 構想專題構造部分
 4. 新增行走自行車介紹
-5. 新增各組員每週心得按鈕</t>
+5. 新增各組員每週心得按鈕
+
+</t>
 <t tx="leo.20190103231154.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -603,7 +624,9 @@ make.start()
 <t tx="leo.20190103231154.9">## Week12 上課內容
 
 1. 建立完課程分組倉儲後，架設期末分組網站，在網站中新增規定之項目。
-2. 新增表格並確實記錄每週組員缺曠課情形。</t>
+2. 新增表格並確實記錄每週組員缺曠課情形。
+
+</t>
 <t tx="leo.20190103231159.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -622,7 +645,9 @@ make.start()
 
 1. Onshape-Creating a documents內容更新
 2. 更新、增加Introduction裡內容
-3. 新增Independent Study裡的功能項目</t>
+3. 新增Independent Study裡的功能項目
+
+</t>
 <t tx="leo.20190103231203.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -664,7 +689,9 @@ make.start()
 2. V-Rep程式處理
 3. 討論各分組進度內容
 4. 把手及龍頭摺疊總成外觀修正
-5. 零件組立。</t>
+5. 零件組立。
+
+</t>
 <t tx="leo.20190103231212.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -699,7 +726,9 @@ make.start()
 <t tx="leo.20190103232316.2">## Quesion20181207
 &lt;small&gt;
  python wsgi.py ，開啟近端時無法成功完成執行
- &lt;img src ="./../images/963.jpg"  width="700" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+ &lt;img src ="./../images/963.jpg"  width="700" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190103232710.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -714,7 +743,9 @@ make.start()
 Blog故障事件：
 剛開始查找不到原因，造成分組部落格崩潰，產生網頁404的狀況。
 後發現原因為時間、標題的錯誤導致，外加未使用上方轉換功能鍵使的網頁未能在編輯完後成功轉換。後我們更正此錯誤後才把網頁恢復為正常狀態。
-&lt;img src ="./../images/p37_22-38-04.png"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/p37_22-38-04.png"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190103232717.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -730,7 +761,9 @@ Blog故障事件：
 "Y:\tmp\ag9\config"點擊到config資料夾內，此時會發現兩個html檔。
 (content檔為目前近端網站編輯的部分，content_backup為幫我們暫存目前檔案的地方)
 在發生上述事件(head)後，刪除content檔，把content_backup檔名修改成content，(這邊意指用系統幫你存下的完好檔覆蓋、取代掉壞掉的content檔)，後重新開啟近端便救回此狀況。(前提為自己的p37版本要有更新到有儲存備份檔功能的版本才行）
-&lt;img src ="./../images/p37_00-43-58.png"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/p37_00-43-58.png"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190104104456.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -892,13 +925,14 @@ Member：
 1.把手
 2.前叉座
 3.摺疊座頭
-4.上折彎桿
-5.下折彎桿
-6.座管
-7.後車架
-8.輪胎 x2
-9.快拆組
-10.
+4.連桿A
+5.連桿B
+6.連趕C
+7.座管
+8.後車架
+9.輪胎 x2
+10.快拆組
+11.
 ```
 </t>
 <t tx="leo.20190104104530.4">&lt;section data-markdown&gt;
@@ -914,7 +948,7 @@ Member：
 </t>
 <t tx="leo.20190104104530.5">## 把手
 
-&lt;img src ="./../images/把手.png"  width="350" height="250
+&lt;img src ="./../images/components/把手.png"  width="350" height="250
 " frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
 ```
@@ -961,7 +995,9 @@ Member：
 </t>
 <t tx="leo.20190105152932.2">## Week9 心得
 
-在這堂課進度中，我們為自己過去八周的表現評了分還有為往後的九週分組，在這八週裡我學到的不只是Onshape，還有利用Github做倉儲，讓我了解網路作業趨勢的重要，在使用Github過程中遇到了不少瓶頸，甚至是覺得我到底是不是在上電腦輔助設計，經過同學多次指導後才逐漸理解。</t>
+在這堂課進度中，我們為自己過去八周的表現評了分還有為往後的九週分組，在這八週裡我學到的不只是Onshape，還有利用Github做倉儲，讓我了解網路作業趨勢的重要，在使用Github過程中遇到了不少瓶頸，甚至是覺得我到底是不是在上電腦輔助設計，經過同學多次指導後才逐漸理解。
+
+</t>
 <t tx="leo.20190105153310.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -975,7 +1011,9 @@ Member：
 
 1. 下載可攜 Heroku cli至個人隨身碟中，之後註冊Heroku 帳號,，完成信箱驗證後登入建立雲端網站倉儲，與Github網站做連結。
 2. 開始遇到了組員互相更新互相衝突網站，導致無法更新的問題。
-3. 將githug與heroku做進一步的連結，以達成協同功能，現在遇到的問題是大家分別推到倉儲的東西不能整合在一起，都會被最後一個覆蓋掉，在經過討論後得出的結論是當要上傳的時候要先有一個git pull合併的動作。</t>
+3. 將githug與heroku做進一步的連結，以達成協同功能，現在遇到的問題是大家分別推到倉儲的東西不能整合在一起，都會被最後一個覆蓋掉，在經過討論後得出的結論是當要上傳的時候要先有一個git pull合併的動作。
+
+</t>
 <t tx="leo.20190105153812.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -987,7 +1025,9 @@ Member：
 </t>
 <t tx="leo.20190105153812.2">## Week11 心得
 
-我們經過多方意見討論出了設計的主題，並且依照我們每一位成員的專長下去分配工作，而我在小組中分配了繪圖與組立的工作，雖然是利用Onshape這套不是我所擅長的軟體來製圖與組立各個機件，但經過前幾週的學習與過去製圖的經驗，在使用上應該也能駕輕就熟。</t>
+我們經過多方意見討論出了設計的主題，並且依照我們每一位成員的專長下去分配工作，而我在小組中分配了繪圖與組立的工作，雖然是利用Onshape這套不是我所擅長的軟體來製圖與組立各個機件，但經過前幾週的學習與過去製圖的經驗，在使用上應該也能駕輕就熟。
+
+</t>
 <t tx="leo.20190105154004.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1002,7 +1042,9 @@ Member：
 1. 選定專題題目:摺疊自行車。
 2. 上網搜尋自行車各部位零組件。
 3. 使用Onshape繪圖與組立各個機件。
-4. 確定主題後開始注意目前市面上所販售的折疊單車，仔細找出它們的缺點，像是折疊後還是很佔空間，或是折疊後單車無法隨時帶著走，決定由車架的改變開始下手。</t>
+4. 確定主題後開始注意目前市面上所販售的折疊單車，仔細找出它們的缺點，像是折疊後還是很佔空間，或是折疊後單車無法隨時帶著走，決定由車架的改變開始下手。
+
+</t>
 <t tx="leo.20190105154015.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1017,7 +1059,9 @@ Member：
 1. 新增出缺席按鈕
 2. 繪製出缺席表格
 3. 開放同步編輯期末報告檔案doc
-4. 新增Git指令介紹</t>
+4. 新增Git指令介紹
+
+</t>
 <t tx="leo.20190105154023.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1029,7 +1073,9 @@ Member：
 </t>
 <t tx="leo.20190105154023.2">## Week12 心得
 
-今天開始進入主題，討論專題題目與內容，題目決定摺疊自行車，自行車大家都有騎過，而折疊式的有收納功能，將龐大物體縮小，需要有空間觀念，必須避開干涉，加上傳動構造要保護好，這是專題的大概方向。</t>
+今天開始進入主題，討論專題題目與內容，題目決定摺疊自行車，自行車大家都有騎過，而折疊式的有收納功能，將龐大物體縮小，需要有空間觀念，必須避開干涉，加上傳動構造要保護好，這是專題的大概方向。
+
+</t>
 <t tx="leo.20190105154245.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1043,7 +1089,9 @@ Member：
 
 1. 開始選擇專題題目
 2. 我們經過多方意見討論出了設計的主題，並且依照每一位組員的專長下去分配工作。
-3. 觀看V-rep內專題範例之機構運作方式。</t>
+3. 觀看V-rep內專題範例之機構運作方式。
+
+</t>
 <t tx="leo.20190105154645.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1074,7 +1122,9 @@ Member：
 <t tx="leo.20190105154647.2">## Week13 網誌
 
 1. 維護分組網站。
-2. 新增Q&amp;A。</t>
+2. 新增Q&amp;A。
+
+</t>
 <t tx="leo.20190105154648.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1108,7 +1158,9 @@ Member：
 
 參考連結:
 &lt;small&gt;
-http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm</t>
+http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
+
+</t>
 <t tx="leo.20190105155208.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1122,7 +1174,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm</t>
 
 &lt;small&gt;
 本週使用V-rep了解機件的作動方式，並嘗試自行繪出2D圖後傳至V-rep使之作動，在2D圖畫出來後變成立體作動可能會發生干涉問題。
-&lt;img src ="./../images/123.png"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/123.png"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190105161149.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1135,7 +1189,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm</t>
 <t tx="leo.20190105161149.2">&lt;small&gt;
 詳細閱讀此文章內容，熟悉該軟體操作方法。
 http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
-&lt;img src ="./../images/1234.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/1234.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190105161722.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1148,7 +1204,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 <t tx="leo.20190105161722.2">## Week15 上課內容
 
 1. 本週進行blog維護更新時，因為格式錯誤而造成blog顯示404畫面，經詢問班上較熟習操作的同學後發現問題出在"Slug:2018-Final-Project-Blog"每週都不能相同，經更改後也順利的救回blog，相當感謝同學的幫忙。
-2. 經由此得知格式的重要性，只要稍稍步驟錯誤就會發生問題，影響了整個blog。</t>
+2. 經由此得知格式的重要性，只要稍稍步驟錯誤就會發生問題，影響了整個blog。
+
+</t>
 <t tx="leo.20190105161727.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1160,7 +1218,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 </t>
 <t tx="leo.20190105161727.2">## Week15 心得
 
-本週進行blog維護更新時，因為格式錯誤而導致blog顯示404畫面，無法正常開啟，經由詢問後修正了格式錯誤，順利將blog開啟，經由此得知格式的重要性，只要稍稍步驟錯誤就會發生問題，影響了整個blog。</t>
+本週進行blog維護更新時，因為格式錯誤而導致blog顯示404畫面，無法正常開啟，經由詢問後修正了格式錯誤，順利將blog開啟，經由此得知格式的重要性，只要稍稍步驟錯誤就會發生問題，影響了整個blog。
+
+</t>
 <t tx="leo.20190105162444.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1173,7 +1233,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 <t tx="leo.20190105162444.2">## Week16 心得
 &lt;small&gt;
 在第16週終於將我們的折疊腳踏車組裝完成，雖然花了很久的時間才完成構圖、零件繪製、組裝配合、檢查干涉，但一樣東西從無到有的感覺非常的感動，特別是出自於親手創作的樣品，僅管只是畫出來並不是實體的呈現，但離成功又更進一步了。
-&lt;img src ="./../images/chrome_2018-12-30_22-22-52.png"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/chrome_2018-12-30_22-22-52.png"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190105162446.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1189,7 +1251,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 2. 新增座墊、齒盤、腳踏板
 3. 組立完成
 
-&lt;img src ="./../images/chrome_2018-12-30_22-43-58.png"  width="700" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+&lt;img src ="./../images/chrome_2018-12-30_22-43-58.png"  width="700" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190105163246.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1203,7 +1267,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 </t>
 <t tx="leo.20190105163246.2">&lt;small&gt;
 卡住時用CTR+C取消指令時跑出
- &lt;img src ="./../images/er.png"  width="700" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+ &lt;img src ="./../images/er.png"  width="700" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190105163247.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1219,7 +1285,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 ◎解決辦法：檢查其他地方發現以下狀況
 &lt;img src ="./../images/pro.jpg"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
-這邊也不知為甚麼，等了10多分鐘之後就問題解決(此時的.leo才打開，不知道是否為.LEO卡住的問題，教室PC跟個人NB都發生了這問題。</t>
+這邊也不知為甚麼，等了10多分鐘之後就問題解決(此時的.leo才打開，不知道是否為.LEO卡住的問題，教室PC跟個人NB都發生了這問題。
+
+</t>
 <t tx="leo.20190105165540.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1229,7 +1297,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 
 						
 </t>
-<t tx="leo.20190105165540.2">&lt;img src ="./../images/item.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190105165540.2">&lt;img src ="./../images/item.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190105165909.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1239,7 +1309,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 
 						
 </t>
-<t tx="leo.20190105165909.2">&lt;img src ="./../images/item2.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190105165909.2">&lt;img src ="./../images/item2.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190105170125.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1249,7 +1321,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 
 						
 </t>
-<t tx="leo.20190105170125.2">&lt;img src ="./../images/item3.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190105170125.2">&lt;img src ="./../images/item3.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190105170127.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1259,7 +1333,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 
 						
 </t>
-<t tx="leo.20190105170127.2">&lt;img src ="./../images/item4.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190105170127.2">&lt;img src ="./../images/item4.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190105170315.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1281,7 +1357,9 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 
 						
 </t>
-<t tx="leo.20190105170553.2">&lt;img src ="./../images/chrome_2018-12-24_16-55-01.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190105170553.2">&lt;img src ="./../images/chrome_2018-12-24_16-55-01.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
 <t tx="leo.20190105170554.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1291,6 +1369,87 @@ http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm
 
 						
 </t>
-<t tx="leo.20190105170554.2">&lt;img src ="./../images/chrome_2018-12-24_17-14-34.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;</t>
+<t tx="leo.20190105170554.2">&lt;img src ="./../images/chrome_2018-12-24_17-14-34.png"  width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190106114454.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190106114454.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106114454.11">## Week9 心得
+
+在這堂課進度中，我們為自己過去八周的表現評了分還有為往後的九週分組，在這八週裡我學到的不只是Onshape，還有利用Github做倉儲，讓我了解網路作業趨勢的重要，在使用Github過程中遇到了不少瓶頸，甚至是覺得我到底是不是在上電腦輔助設計，經過同學多次指導後才逐漸理解。
+
+</t>
+<t tx="leo.20190106114454.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106114454.3">## 專題執行規劃</t>
+<t tx="leo.20190106114454.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106114454.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106114454.7">&lt;small&gt;
+卡住時用CTR+C取消指令時跑出
+ &lt;img src ="./../images/er.png"  width="700" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190106114454.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190106114454.9">&lt;small&gt;
+◎解決辦法：檢查其他地方發現以下狀況
+&lt;img src ="./../images/pro.jpg"  width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+這邊也不知為甚麼，等了10多分鐘之後就問題解決(此時的.leo才打開，不知道是否為.LEO卡住的問題，教室PC跟個人NB都發生了這問題。
+
+</t>
+<t tx="leo.20190106114913.1">&lt;img src ="./../images\專題執行規劃\1.jpg"  width="700" height="500
+" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+</t>
 </tnodes>
 </leo_file>
