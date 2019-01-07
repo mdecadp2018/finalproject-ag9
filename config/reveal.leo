@@ -21,14 +21,14 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190106201123.1"><vh>開頭</vh>
 <v t="leo.20190106201123.2" a="E"><vh>行走自行車</vh>
 <v t="leo.20190106201123.3"><vh>內文</vh></v>
 </v>
-<v t="leo.20190106201123.4"><vh>組員</vh>
+<v t="leo.20190106201123.4" a="E"><vh>組員</vh>
 <v t="leo.20190106201123.5"><vh>組員介紹</vh></v>
 </v>
 </v>
@@ -316,7 +316,9 @@ Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 
 						
 </t>
-<t tx="leo.20190106114454.3">## 專題執行規劃</t>
+<t tx="leo.20190106114454.3">## 專題執行規劃
+
+</t>
 <t tx="leo.20190106114454.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -361,7 +363,9 @@ Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 
 [相關資料 (http://www.giantcyclingworld.com/)
 ](http://www.giantcyclingworld.com/
-)</t>
+)
+
+</t>
 <t tx="leo.20190106124921.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -404,7 +408,9 @@ Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 
 						
 </t>
-<t tx="leo.20190106124921.3">## 各組員分工情況​</t>
+<t tx="leo.20190106124921.3">## 各組員分工情況​
+
+</t>
 <t tx="leo.20190106124921.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -489,7 +495,9 @@ Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 
 						
 </t>
-<t tx="leo.20190106194757.3">## 緣起</t>
+<t tx="leo.20190106194757.3">## 緣起
+
+</t>
 <t tx="leo.20190106194757.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -561,7 +569,9 @@ Created by [ag9](https://github.com/mdecadp2018/finalproject-ag9)
 
 						
 </t>
-<t tx="leo.20190106200434.3">## 具體完成任務</t>
+<t tx="leo.20190106200434.3">## 具體完成任務
+
+</t>
 <t tx="leo.20190106200434.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
